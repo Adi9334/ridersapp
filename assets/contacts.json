@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "displayName": "John Doe",
+      "phones": ["123-456-7890"],
+      "emails": ["john.doe@example.com"],
+      "name": {
+        "first": "John",
+        "last": "Doe"
+      }
+    },
+    {
+      "id": "2",
+      "displayName": "Jane Smith",
+      "phones": ["987-654-3210"],
+      "emails": ["jane.smith@example.com"],
+      "name": {
+        "first": "Jane",
+        "last": "Smith"
+      }
+    }
+  ]
+  
